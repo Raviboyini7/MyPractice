@@ -1,3 +1,3 @@
 # MyPractice
-Editing from GitHub
 Editing from local
+Editing from GitHub
